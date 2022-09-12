@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "weatherapp",
+    "slug": "snack-ccd7c742-2b4a-4fb2-9f89-4fc2b90c304d",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.rashneema.snackccd7c7422b4a4fb29f894fc2b90c304d"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
